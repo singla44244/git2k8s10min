@@ -1,1 +1,1 @@
-# git2k8s10min
+"From GIT to Kubernetes in 10 minutes with ArgoCD." 
